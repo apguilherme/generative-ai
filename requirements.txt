@@ -3,3 +3,4 @@ pypdf
 chromadb
 genai
 python-dotenv
+langchain_experimental
